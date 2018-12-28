@@ -1,2 +1,4 @@
 Hello World
 
+var num =0;
+System.out.println("hey its"+ num);
